@@ -15,8 +15,8 @@ This Food-recipe application was built using HTML and Tailwind CSS
 
 <img width="219" alt="image" src="https://user-images.githubusercontent.com/81313711/213665142-f2f95e8a-d49d-4dd0-9ce3-077a7f38a854.png">
  
-<img width="219" alt="image" src="https://github.com/Prasad-mutnale/Food-recipe/assets/81313711/65220b44-c1bf-4f5e-bec0-4aa7ac7a0f68">
-<!--  ![image](https://github.com/Prasad-mutnale/Food-recipe/assets/81313711/65220b44-c1bf-4f5e-bec0-4aa7ac7a0f68) -->
+<!-- <img width="219" alt="image" src="https://github.com/Prasad-mutnale/Food-recipe/assets/81313711/65220b44-c1bf-4f5e-bec0-4aa7ac7a0f68">
+<!--  ![image](https://github.com/Prasad-mutnale/Food-recipe/assets/81313711/65220b44-c1bf-4f5e-bec0-4aa7ac7a0f68) --> -->
 
 
 </details>
